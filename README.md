@@ -20,7 +20,7 @@
     ·
     <a href="https://github.com/RHO-DK/MTRAViz/issues/new?assignees=RHO-DK&labels=&projects=&template=inquiry.md&title=Please+make+a+title+-+are+you+inquiring+about+a+new+feature%2C+a+bug+or+collaboration%3F">Inquiry</a>
     ·
-    <a href="https://github.com/RHO-DK/MTRAViz/blob/master/masterProjectFinal.pdf">Read More</a>
+    <a href="https://github.com/RHO-DK/MTRAViz/blob/master/report.pdf">Read More</a>
     
   </p>
 </div>
@@ -132,7 +132,7 @@ http://localhost:8000/3divs.html
 
 Please take at look at the website for the original source code: https://www.traviz.vizcovery.org/ and see many examples of how to visualize data and create analytic insights with TRAViz. 
 
-This modernized source code extends TRAViz by adding a multilingual capacity. It is still under development and further examples will be added here, as they are created. An assignment was written during, and on the basis of this development, it constitutes a relevant part of its documentation as it contains detailed descriptions of considerations and coding examples, particularly chapter 2. You can find it [Here](https://github.com/RHO-DK/MTRAViz/blob/master/masterProjectFinal.pdf).
+This modernized source code extends TRAViz by adding a multilingual capacity. It is still under development and further examples will be added here, as they are created. An assignment was written during, and on the basis of this development, it constitutes a relevant part of its documentation as it contains detailed descriptions of considerations and coding examples, particularly chapter 2. You can find it [Here](https://github.com/RHO-DK/MTRAViz/blob/master/report.pdf).
 
 ### Data Structure
 
