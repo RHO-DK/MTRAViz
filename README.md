@@ -18,7 +18,7 @@
     <br />
     <a href="https://github.com/RHO-DK/MTRAViz/blob/master/introMTRAViz.gif">View Demo</a>
     ·
-    <a href="https://github.com/RHO-DK/MTRAViz/issues">Inquiry</a>
+    <a href="https://github.com/RHO-DK/MTRAViz/issues/new?assignees=RHO-DK&labels=&projects=&template=inquiry.md&title=Please+make+a+title+-+are+you+inquiring+about+a+new+feature%2C+a+bug+or+collaboration%3F">Inquiry</a>
   </p>
 </div>
 
