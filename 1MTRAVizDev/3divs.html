@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="index.css">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+
+    <title>MTRAViz Test</title>
+</head>
+
+<body class="body">
+    <!-- Three containers three graphs -->
+    <div id="containerDiv1"></div>
+    <div id="containerDiv2"></div>
+    <div id="containerDiv3"></div>
+
+    <!-- Insertion of image files -->
+    <img id="unlinkIcon" src="./src/components/images/unlink.png" style="display:none;" />
+    <img id="unlinkIcon" src="./src/components/images/CopyrightStefanIcon.png" style="display:none;" />
+
+
+    <script>
+        console.log('D3 is loaded:', d3.version);
+    </script>
+
+    <!-- External JS file execte via that... see "3divs.js"Include the external JavaScript file for execution as a module -->
+    <script src="./3divs.js" type="module" defer></script>
+</body>
+</html>

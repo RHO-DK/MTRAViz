@@ -1,0 +1,136 @@
+/* General Tooltips */
+.tooltip {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    text-align: center;
+}
+
+/*Tooltip sstyle specific to edges */
+.tooltip-edge {
+    background-color: #f9f9f9;
+    border: 1px solid #999;
+    padding: 8px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    font-size: 12px;
+    opacity: 0.9;
+}
+
+/* edge tooltips MUST remain unclickable if needed */
+.edge-tooltip {
+    z-index: 1001;
+    pointer-events: none;
+}
+
+/* Body*/
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Tooltip centering text*/
+.tooltip-text {
+    text-align: center;
+}
+
+/* fading effect for tooltip sp not too abrubt*/
+.fading-out {
+    transition: opacity 0.1s ease-in-out;
+    opacity: 0;
+}
+
+/* Path elements*/
+path {
+    fill: none;
+}
+
+/* Custom tooltip important sepearation to avoid uncrontrolled interactions*/
+.custom-tooltip {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    width: 250px; /*Using a set withd */
+}
+
+/*styling tooltip Tilte*/
+.custom-tooltip .tooltip-title {
+    position: relative;
+    font-weight: bold;
+    background-color: #ddd;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+/* Tooltip close bottom - also styling the botton in tiptext*/
+.custom-tooltip .tooltip-close {
+    position: absolute;
+    right: 5px;
+    top: 2px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #000;
+    background-color: #e0e0e0;
+    border: none;
+    padding: 3px 8px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.custom-tooltip .tooltip-close:hover {
+    background-color: #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Tooltip table for displaying editions */
+.custom-tooltip table {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.custom-tooltip th, .custom-tooltip td {
+    padding: 5px;
+    text-align: left;
+}
+
+.custom-tooltip th {
+    font-weight: bold;
+}
+
+.custom-tooltip td {
+    color: #3E576F;
+}
+
+/* Unlink button - see also image has to be loaded into the .html file*/
+.unlink {
+    width: 23px;
+    height: 16px;
+    background: #FFFFFF url('./src/components/images/unlink.png') no-repeat;
+    cursor: pointer;
+}
+
+/*Copyright section  - all credited to the original creator. and thus only adapted to fit with insertion of image*/
+.TRAViz-copyright-link {
+    z-index: 100;
+    position: relative;
+    margin-top: -60px;
+    float: right;
+}
+
+.TRAViz-copyright {
+    width: 232px;
+    height: 50px;
+    background-image: url(./src/components/images/CopyrightStefanIcon.png);
+}
