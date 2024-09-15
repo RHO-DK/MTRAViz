@@ -233,7 +233,7 @@ Contributions are very welcome, right now there is no end to what can still be d
 - Adding multilingual features (sound?)
 
 
-See the [open issues](issues-url) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/RHO-DK/MTRAViz/blob/master/.github/ISSUE_TEMPLATE/inquiry.md) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
