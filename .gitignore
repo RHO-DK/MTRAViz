@@ -1,0 +1,56 @@
+#this .gitignore has been copied in its entriety from an online froum, I just do no remember the source.
+# It has been added to when need arose - for isstance the large wictionary files which could not be synchronized to github, adn which have since beren deleted
+
+.env
+.env-development
+.env-production
+
+# Logs/db
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.lib
+**/.lib
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Random crap
+trash
+**.DS_Store
+.sass-cache
+.tmp
+.rvmrc
+.trashes
+.DS_Store
+*~
+
+# Gatsby related
+.cache/
+public
+
+# Editor
+.vscode
+.vscode-test
+*.sublime-project
+*.sublime-workspace
+sftp-config.json
+
+# Ignore JSONL files in the dictionaries folder
+dictionaries/*.jsonl
+
+# Ignore compressed files in the dictionaries folder
+dictionaries/*.gz
+
+src/dictionaries/*.jsonl
+
+

@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/MLTraviz/dev">
+  <a href="https://github.com/RHO-DK/MTRAViz">
     <img src="gitHubScreenshot.png" alt="Logo" width="700" height="flex">
   </a>
 
@@ -13,12 +13,12 @@
   <p align="center">
     Modernizing a JavaScript source code!
     <br />
-    <a href="https://github.com/MLTraviz/dev"><strong>Explore»</strong></a>
+    <a href="https://github.com/RHO-DK/MTRAViz/tree/master/1MTRAVizDev"><strong>Explore»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MLTraviz/dev/blob/master/introMTRAViz.gif">View Demo</a>
+    <a href="https://github.com/RHO-DK/MTRAViz/blob/master/introMTRAViz.gif">View Demo</a>
     ·
-    <a href="https://github.com/MLTraviz/dev/issues/new?assignees=RHO-DK&labels=&projects=&template=inquiry.md&title=Inquiry">Inquiry</a>
+    <a href="https://github.com/RHO-DK/MTRAViz/issues">Inquiry</a>
   </p>
 </div>
 
@@ -97,7 +97,7 @@ The modernized source code relies on Vanilla JS and D3.js
 No installation!
 No fuzz, no muss!
 
-Download the software and use an IDE live server to run [3divs.html](https://github.com/MLTraviz/dev/blob/master/1MTRAVizDev/3divs.html).
+Download the software and use an IDE live server to run [3divs.html](https://github.com/RHO-DK/MTRAViz/blob/master/1MTRAVizDev/3divs.html).
 
 Easy as that!
 
@@ -164,7 +164,7 @@ const combinedDatasets = [
 ];
 
 ```
-During development these are integrated in the initializing JavaScript file [3divs.js](https://github.com/MLTraviz/dev/blob/master/1MTRAVizDev/3divs.js) which you can inspect for more insight. It will also exemplify how to initialize MTRAViz.
+During development these are integrated in the initializing JavaScript file [3divs.js](https://github.com/RHO-DK/MTRAViz/blob/master/1MTRAVizDev/3divs.js) which you can inspect for more insight. It will also exemplify how to initialize MTRAViz.
 
 
 <a name="#languages"></a>
@@ -233,7 +233,7 @@ Contributions are very welcome, right now there is no end to what can still be d
 - Adding multilingual features (sound?)
 
 
-See the [open issues](https://github.com/MLTraviz/dev/issues) for a full list of proposed features (and known issues).
+See the [open issues](issues-url) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +244,7 @@ See the [open issues](https://github.com/MLTraviz/dev/issues) for a full list of
 
 Collaborations and contributions about open source development is what GitHub is really about. This is how software gets better, by being pocked and prodded by both savy developers, as well as by amateurs like me. 
 
-Any [inquiry](https://github.com/MLTraviz/dev/issues/new?assignees=RHO-DK&labels=&projects=&template=inquiry.md&title=Inquiry) concering collaboration will be considered a promising and very wellcome addition to a further development of this source code. 
+Any [inquiry](issues-url) concering collaboration will be considered a promising and very wellcome addition to a further development of this source code. 
 
 **Much still needs to be done!**
 
@@ -295,7 +295,7 @@ http://www.traviz.vizcovery.org/
 <!-- LICENSE -->
 ## License
 
-Distributed under The MIT License - See [LICENSE](https://github.com/MLTraviz/dev/blob/master/LICENSE) for more information.
+Distributed under The MIT License - See [LICENSE](licence-url) for more information.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -322,8 +322,8 @@ A great ressource, which I am very grateful to have found. Any errors or lack of
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-url]: https://github.com/MLTraviz/dev/issues
-[license-url]: https://github.com/MLTraviz/dev/blob/master/LICENSE
+[issues-url]: https://github.com/RHO-DK/MTRAViz/issues
+[license-url]: https://github.com/RHO-DK/MTRAViz/blob/master/LICENSE
 
 [D3.js]: https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white
 [D3-url]: https://devdocs.io/d3~6/
