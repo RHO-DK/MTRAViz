@@ -233,7 +233,7 @@ Contributions are very welcome, right now there is no end to what can still be d
 - Adding multilingual features (sound?)
 
 
-See the [open issues](https://github.com/RHO-DK/MTRAViz/blob/master/.github/ISSUE_TEMPLATE/inquiry.md) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/RHO-DK/MTRAViz/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,7 +244,7 @@ See the [open issues](https://github.com/RHO-DK/MTRAViz/blob/master/.github/ISSU
 
 Collaborations and contributions about open source development is what GitHub is really about. This is how software gets better, by being pocked and prodded by both savy developers, as well as by amateurs like me. 
 
-Any [inquiry](issues-url) concering collaboration will be considered a promising and very wellcome addition to a further development of this source code. 
+Any [inquiry](https://github.com/RHO-DK/MTRAViz/issues/new?assignees=RHO-DK&labels=&projects=&template=inquiry.md&title=Please+make+a+title+-+are+you+inquiring+about+a+new+feature%2C+a+bug+or+collaboration%3F) concering collaboration will be considered a promising and very wellcome addition to a further development of this source code. 
 
 **Much still needs to be done!**
 
@@ -295,7 +295,7 @@ http://www.traviz.vizcovery.org/
 <!-- LICENSE -->
 ## License
 
-Distributed under The MIT License - See [LICENSE](licence-url) for more information.
+Distributed under The MIT License - See [LICENSE](https://github.com/RHO-DK/MTRAViz/blob/master/LICENSE) for more information.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -306,7 +306,7 @@ Distributed under The MIT License - See [LICENSE](licence-url) for more informat
 ## Contact
 
 
-Project Link: [MTRAViz](https://github.com/MLTraviz)
+Project Link: [MTRAViz](https://github.com/RHO-DK/MTRAViz/tree/master)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
